@@ -1,3 +1,3 @@
 
-list1 = [10, 20, 45, 99,8,44,4]
+list1 = [5, 7, 9, 14, 10, 20, 4]
 print("Smallest element is:", min(list1))
